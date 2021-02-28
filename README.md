@@ -12,8 +12,4 @@ $ npm install
 ```
 Também será necessário criar um arquivo **.env** com as variáveis de ambiente. No projeto tem apenas uma, a **URL_MAIL**, nela é preciso colocar o path de onde sua aplicação será rodada. Se for rodar de forma local o valor de *http://localhost:3333/answers*
 
-## Imagens
-
-* Corpo do e-mail
-<a href="https://ibb.co/GsY9j9n"><img src="https://ibb.co/GsY9j9n" alt="Corpo-do-e-mail" border="0"></a>
 
